@@ -1,0 +1,14 @@
+.form-box {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#errorHandling {
+    background: yellow;
+    color: red;
+}
+
+.card-holder {
+    opacity: 0;
+}
