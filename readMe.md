@@ -10,6 +10,12 @@ A user can simply type in the keywords related to any movie of their choice, the
 
 2) **Generate movie recommendations.** The site also shows three recommended films based on the user's search. The list of recommendations come from the TMDB API, which allows us to generate a list of films of a similar genre that are highly rated. Similar to the movie scores, the results are shown in the format of Bootstrap cards.
 
+## Quick Start:
+
+The app is designed to be super easy to use. Type in any movie into the search bar, then click the button. You'll see something like the following image render below!
+
+![image](Screenshot.png)
+
 ## Technologies Used:
 
 This section lists all languages/frameworks/libraries/platforms used in this project:
